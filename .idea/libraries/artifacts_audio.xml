@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:audio">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/audio.aar/80c39abffdb72431fa9eb09e1d10d5e3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/audio.aar/80c39abffdb72431fa9eb09e1d10d5e3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

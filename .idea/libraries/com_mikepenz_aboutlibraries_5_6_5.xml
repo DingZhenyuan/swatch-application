@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.mikepenz:aboutlibraries-5.6.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aboutlibraries-5.6.5.aar/e95d7df7c7648c5554c72c97e8be8bea/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aboutlibraries-5.6.5.aar/e95d7df7c7648c5554c72c97e8be8bea/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries/5.6.5/74d329a29bdd4a5923e03d7c7ada3280ba0f0e30/aboutlibraries-5.6.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.mikepenz:crossfadedrawerlayout-0.3.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/crossfadedrawerlayout-0.3.4.aar/d6d8c21562f41429e21b083d3baaca9c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/crossfadedrawerlayout-0.3.4.aar/d6d8c21562f41429e21b083d3baaca9c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/crossfadedrawerlayout/0.3.4/64796576f829012d2e73d83af895914945585e59/crossfadedrawerlayout-0.3.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

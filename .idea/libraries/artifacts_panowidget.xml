@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:panowidget">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/panowidget.aar/69ded05af581dd4bf787ab7e7103a255/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/panowidget.aar/69ded05af581dd4bf787ab7e7103a255/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
